@@ -16,7 +16,10 @@ Selecione a skin de sua preferência, com seu tipo de raridade.
 # :dragon_face: Utilizado (JS)
 
 - Navegation Tab
-<p>Selecione a skin de sua preferência.</p>
+<p>Seleção de skin de acordo com a sua raridade.</p>
+
+- Accordion List
+<p>Lista com o valor, história e data de lançamento da skin.</p>
 
 # :beginner: Abrir o projeto
 
